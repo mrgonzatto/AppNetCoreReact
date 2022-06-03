@@ -1,0 +1,10 @@
+C:\GitHub\AppNetCoreReact\Domain\obj\Debug\netstandard2.0\Domain.csproj.AssemblyReference.cache
+C:\GitHub\AppNetCoreReact\Domain\obj\Debug\netstandard2.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\AppNetCoreReact\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\GitHub\AppNetCoreReact\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\GitHub\AppNetCoreReact\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+C:\GitHub\AppNetCoreReact\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\GitHub\AppNetCoreReact\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\GitHub\AppNetCoreReact\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\GitHub\AppNetCoreReact\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\GitHub\AppNetCoreReact\Domain\obj\Debug\netstandard2.0\Domain.pdb

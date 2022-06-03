@@ -1,0 +1,13 @@
+C:\GitHub\AppNetCoreReact\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.AssemblyReference.cache
+C:\GitHub\AppNetCoreReact\Persistence\obj\Debug\netstandard2.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\AppNetCoreReact\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfoInputs.cache
+C:\GitHub\AppNetCoreReact\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfo.cs
+C:\GitHub\AppNetCoreReact\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CoreCompileInputs.cache
+C:\GitHub\AppNetCoreReact\Persistence\bin\Debug\netstandard2.0\Persistence.deps.json
+C:\GitHub\AppNetCoreReact\Persistence\bin\Debug\netstandard2.0\Persistence.dll
+C:\GitHub\AppNetCoreReact\Persistence\bin\Debug\netstandard2.0\Persistence.pdb
+C:\GitHub\AppNetCoreReact\Persistence\bin\Debug\netstandard2.0\Domain.dll
+C:\GitHub\AppNetCoreReact\Persistence\bin\Debug\netstandard2.0\Domain.pdb
+C:\GitHub\AppNetCoreReact\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CopyComplete
+C:\GitHub\AppNetCoreReact\Persistence\obj\Debug\netstandard2.0\Persistence.dll
+C:\GitHub\AppNetCoreReact\Persistence\obj\Debug\netstandard2.0\Persistence.pdb

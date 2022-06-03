@@ -1,0 +1,15 @@
+C:\GitHub\AppNetCoreReact\Application\obj\Debug\netstandard2.0\Application.csproj.AssemblyReference.cache
+C:\GitHub\AppNetCoreReact\Application\obj\Debug\netstandard2.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\AppNetCoreReact\Application\obj\Debug\netstandard2.0\Application.AssemblyInfoInputs.cache
+C:\GitHub\AppNetCoreReact\Application\obj\Debug\netstandard2.0\Application.AssemblyInfo.cs
+C:\GitHub\AppNetCoreReact\Application\obj\Debug\netstandard2.0\Application.csproj.CoreCompileInputs.cache
+C:\GitHub\AppNetCoreReact\Application\bin\Debug\netstandard2.0\Application.deps.json
+C:\GitHub\AppNetCoreReact\Application\bin\Debug\netstandard2.0\Application.dll
+C:\GitHub\AppNetCoreReact\Application\bin\Debug\netstandard2.0\Application.pdb
+C:\GitHub\AppNetCoreReact\Application\bin\Debug\netstandard2.0\Domain.dll
+C:\GitHub\AppNetCoreReact\Application\bin\Debug\netstandard2.0\Persistence.dll
+C:\GitHub\AppNetCoreReact\Application\bin\Debug\netstandard2.0\Domain.pdb
+C:\GitHub\AppNetCoreReact\Application\bin\Debug\netstandard2.0\Persistence.pdb
+C:\GitHub\AppNetCoreReact\Application\obj\Debug\netstandard2.0\Application.csproj.CopyComplete
+C:\GitHub\AppNetCoreReact\Application\obj\Debug\netstandard2.0\Application.dll
+C:\GitHub\AppNetCoreReact\Application\obj\Debug\netstandard2.0\Application.pdb
