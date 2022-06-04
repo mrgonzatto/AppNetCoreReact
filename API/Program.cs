@@ -32,9 +32,7 @@ namespace API
                     logger.LogError(ex, "An error ocurred during migration.");
                 }
                 host.Run();
-            }
-
-            //CreateHostBuilder(args).Build().Run();
+            }            
         }    
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
