@@ -8,10 +8,12 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Authorization;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Persistence;
 
 namespace API
 {
@@ -26,7 +28,10 @@ namespace API
         
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddControllers();            
+            services.AddDbContext<DataContext>(opt => {
+                opt.UseSqlite(Configuration.GetConnectionString("DefaultConnection"));
+            });
+            services.AddControllers();                        
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
