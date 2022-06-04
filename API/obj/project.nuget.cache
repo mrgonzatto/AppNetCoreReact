@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p2WE2JMHVmk3sHDp2ByPUtW6+oPOUzk/zbcYGC6GnAmizxDghrbl93nVd/6y3qkNxUSkB+yPevjz616jFkvTxQ==",
+  "dgSpecHash": "EeF9/H31Rc7joDzLxHsMJOcYDQ7Vyw6w1nnBAkTAmLApG6LbXSsHFsH0T4Kb04Go2EmHCDphlUMkZJB+Tc0qew==",
   "success": true,
-  "projectFilePath": "C:\\GitHub\\AppNetCoreReact\\API\\API.csproj",
+  "projectFilePath": "c:\\GitHub\\AppNetCoreReact\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\WIN.000\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
     "C:\\Users\\WIN.000\\.nuget\\packages\\microsoft.data.sqlite.core\\3.0.0\\microsoft.data.sqlite.core.3.0.0.nupkg.sha512",
