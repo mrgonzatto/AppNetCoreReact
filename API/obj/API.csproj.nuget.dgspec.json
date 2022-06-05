@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\AppNetCoreReact\\API\\API.csproj": {}
+    "c:\\GitHub\\AppNetCoreReact\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\AppNetCoreReact\\API\\API.csproj": {
+    "c:\\GitHub\\AppNetCoreReact\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\AppNetCoreReact\\API\\API.csproj",
+        "projectUniqueName": "c:\\GitHub\\AppNetCoreReact\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\GitHub\\AppNetCoreReact\\API\\API.csproj",
+        "projectPath": "c:\\GitHub\\AppNetCoreReact\\API\\API.csproj",
         "packagesPath": "C:\\Users\\WIN.000\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\AppNetCoreReact\\API\\obj\\",
+        "outputPath": "c:\\GitHub\\AppNetCoreReact\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
@@ -33,11 +33,11 @@
           "netcoreapp3.0": {
             "targetAlias": "netcoreapp3.0",
             "projectReferences": {
-              "C:\\GitHub\\AppNetCoreReact\\Application\\Application.csproj": {
-                "projectPath": "C:\\GitHub\\AppNetCoreReact\\Application\\Application.csproj"
+              "c:\\GitHub\\AppNetCoreReact\\Application\\Application.csproj": {
+                "projectPath": "c:\\GitHub\\AppNetCoreReact\\Application\\Application.csproj"
               },
-              "C:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj"
+              "c:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj": {
+                "projectPath": "c:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\GitHub\\AppNetCoreReact\\Application\\Application.csproj": {
+    "c:\\GitHub\\AppNetCoreReact\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\AppNetCoreReact\\Application\\Application.csproj",
+        "projectUniqueName": "c:\\GitHub\\AppNetCoreReact\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\GitHub\\AppNetCoreReact\\Application\\Application.csproj",
+        "projectPath": "c:\\GitHub\\AppNetCoreReact\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\WIN.000\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\AppNetCoreReact\\Application\\obj\\",
+        "outputPath": "c:\\GitHub\\AppNetCoreReact\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
@@ -108,11 +108,11 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\GitHub\\AppNetCoreReact\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\GitHub\\AppNetCoreReact\\Domain\\Domain.csproj"
+              "c:\\GitHub\\AppNetCoreReact\\Domain\\Domain.csproj": {
+                "projectPath": "c:\\GitHub\\AppNetCoreReact\\Domain\\Domain.csproj"
               },
-              "C:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj"
+              "c:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj": {
+                "projectPath": "c:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -145,14 +145,14 @@
         }
       }
     },
-    "C:\\GitHub\\AppNetCoreReact\\Domain\\Domain.csproj": {
+    "c:\\GitHub\\AppNetCoreReact\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\AppNetCoreReact\\Domain\\Domain.csproj",
+        "projectUniqueName": "c:\\GitHub\\AppNetCoreReact\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\GitHub\\AppNetCoreReact\\Domain\\Domain.csproj",
+        "projectPath": "c:\\GitHub\\AppNetCoreReact\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\WIN.000\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\AppNetCoreReact\\Domain\\obj\\",
+        "outputPath": "c:\\GitHub\\AppNetCoreReact\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
@@ -204,14 +204,14 @@
         }
       }
     },
-    "C:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj": {
+    "c:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "c:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj",
+        "projectPath": "c:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\WIN.000\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\AppNetCoreReact\\Persistence\\obj\\",
+        "outputPath": "c:\\GitHub\\AppNetCoreReact\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
@@ -233,8 +233,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\GitHub\\AppNetCoreReact\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\GitHub\\AppNetCoreReact\\Domain\\Domain.csproj"
+              "c:\\GitHub\\AppNetCoreReact\\Domain\\Domain.csproj": {
+                "projectPath": "c:\\GitHub\\AppNetCoreReact\\Domain\\Domain.csproj"
               }
             }
           }

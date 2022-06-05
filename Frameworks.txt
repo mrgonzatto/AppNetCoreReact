@@ -1,15 +1,20 @@
+.NET
 https://dotnet.microsoft.com/en-us/download/dotnet
 
+NODE
 https://nodejs.org/en/
-
-https://joachim8675309.medium.com/installing-node-js-with-nvm-4dc469c977d9
-
-https://chocolatey.org/
-
 https://docs.microsoft.com/pt-br/windows/dev-environment/javascript/nodejs-on-windows
 
+NVM
+https://joachim8675309.medium.com/installing-node-js-with-nvm-4dc469c977d9
+
+CHOCO
+https://chocolatey.org/
+
+COURSE REPOSITORY
 https://github.com/trycatchlearn/reactivities
 
+.NET CORE
 https://dotnet.microsoft.com/en-us/download/dotnet/3.0
 
 POSTMAN
