@@ -1,9 +1,19 @@
 https://dotnet.microsoft.com/en-us/download/dotnet
+
 https://nodejs.org/en/
+
 https://joachim8675309.medium.com/installing-node-js-with-nvm-4dc469c977d9
+
 https://chocolatey.org/
+
 https://docs.microsoft.com/pt-br/windows/dev-environment/javascript/nodejs-on-windows
 
 https://github.com/trycatchlearn/reactivities
 
 https://dotnet.microsoft.com/en-us/download/dotnet/3.0
+
+POSTMAN
+https://www.postman.com/downloads/
+
+REACT
+https://create-react-app.dev/docs/getting-started/
