@@ -1244,11 +1244,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\GitHub\\AppNetCoreReact\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\GitHub\\AppNetCoreReact\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "c:\\GitHub\\AppNetCoreReact\\Application\\Application.csproj",
+      "projectPath": "C:\\GitHub\\AppNetCoreReact\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\WIN.000\\.nuget\\packages\\",
-      "outputPath": "c:\\GitHub\\AppNetCoreReact\\Application\\obj\\",
+      "outputPath": "C:\\GitHub\\AppNetCoreReact\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
@@ -1270,11 +1270,11 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "c:\\GitHub\\AppNetCoreReact\\Domain\\Domain.csproj": {
-              "projectPath": "c:\\GitHub\\AppNetCoreReact\\Domain\\Domain.csproj"
+            "C:\\GitHub\\AppNetCoreReact\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\GitHub\\AppNetCoreReact\\Domain\\Domain.csproj"
             },
-            "c:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj": {
-              "projectPath": "c:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj"
+            "C:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj"
             }
           }
         }

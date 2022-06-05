@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VWV/daqVtGnx95hC+AuSADgZAqNop8xOK892TnexfgYNY82hFOJyOhRbN6moxa6sFcAObU6pHYdeuIA8+czr7w==",
+  "dgSpecHash": "1oYpziotSW+egjkUhjhEaZkNhVf8wSRWY5/5+WMAgr5XfHZUjgGZKEVGRwlBJXhb1jvJT1yvrAKBwwldjI9NNA==",
   "success": true,
-  "projectFilePath": "c:\\GitHub\\AppNetCoreReact\\Application\\Application.csproj",
+  "projectFilePath": "C:\\GitHub\\AppNetCoreReact\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\WIN.000\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
     "C:\\Users\\WIN.000\\.nuget\\packages\\microsoft.data.sqlite.core\\3.0.0\\microsoft.data.sqlite.core.3.0.0.nupkg.sha512",

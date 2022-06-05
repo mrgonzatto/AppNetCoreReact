@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tFZPhRyzJi/xWEldjvJmBV0WfE/F0S1D5j2+sjicCbTfsDTyX6/l+Q1eo+D9wBmeOj59q2ZuGNzoBOw4gATvnA==",
+  "dgSpecHash": "Sn0y2s/KIFLhxdtjB91inQgWBDJ53RxE2jAF8JshG4cqAQE25rAJqQ5qRp+MtnvnVaF3dfKaa8vR1cgAiLig/A==",
   "success": true,
-  "projectFilePath": "c:\\GitHub\\AppNetCoreReact\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\GitHub\\AppNetCoreReact\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
