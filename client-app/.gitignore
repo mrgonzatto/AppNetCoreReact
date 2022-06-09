@@ -10,6 +10,10 @@
 
 # production
 /build
+/persistence/bin
+/domain/bin
+/application/bin
+/api/bin
 
 # misc
 .DS_Store
@@ -21,3 +25,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# general files
+.Reactivities.postman_collection.json
+.Frameworks.txt
+/.vscode
