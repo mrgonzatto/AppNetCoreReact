@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\GitHub\\AppNetCoreReact\\Domain\\Domain.csproj": {}
+    "C:\\GitHub\\AppNetCoreReact\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "c:\\GitHub\\AppNetCoreReact\\Domain\\Domain.csproj": {
+    "C:\\GitHub\\AppNetCoreReact\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\GitHub\\AppNetCoreReact\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\GitHub\\AppNetCoreReact\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "c:\\GitHub\\AppNetCoreReact\\Domain\\Domain.csproj",
+        "projectPath": "C:\\GitHub\\AppNetCoreReact\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\WIN.000\\.nuget\\packages\\",
-        "outputPath": "c:\\GitHub\\AppNetCoreReact\\Domain\\obj\\",
+        "outputPath": "C:\\GitHub\\AppNetCoreReact\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
