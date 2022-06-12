@@ -26,3 +26,6 @@ https://reactjs.org/blog/2015/09/02/new-react-developer-tools.html#installation
 
 REACT DEVTOOLS EXPERIMENTAL
 https://react-devtools-experimental-chrome.vercel.app/
+
+REACT SEMANTIC-UI
+https://react.semantic-ui.com/ 
