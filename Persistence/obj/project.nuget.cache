@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "be40OQOx6EiWEgQdX+AJ8RPTGDSno6GowBXNpIK1s1t0DogjS2WKWsEMOY0KfvhXijH0fr2Z2BIcu4+fexHvMw==",
+  "dgSpecHash": "KS/8obdjO6cXvHy3HNZLc2FcQGzyLOnMz+baOBdGPDt4miQTazY1iDDg4g+L3OhjZDldUqa4YKV42CUxzYgBGA==",
   "success": true,
-  "projectFilePath": "C:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj",
+  "projectFilePath": "c:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\WIN.000\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
     "C:\\Users\\WIN.000\\.nuget\\packages\\microsoft.data.sqlite.core\\3.0.0\\microsoft.data.sqlite.core.3.0.0.nupkg.sha512",
