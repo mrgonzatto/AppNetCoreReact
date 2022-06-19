@@ -36,8 +36,8 @@
               "C:\\GitHub\\AppNetCoreReact\\Application\\Application.csproj": {
                 "projectPath": "C:\\GitHub\\AppNetCoreReact\\Application\\Application.csproj"
               },
-              "c:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj": {
-                "projectPath": "c:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj"
+              "C:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -111,8 +111,8 @@
               "C:\\GitHub\\AppNetCoreReact\\Domain\\Domain.csproj": {
                 "projectPath": "C:\\GitHub\\AppNetCoreReact\\Domain\\Domain.csproj"
               },
-              "c:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj": {
-                "projectPath": "c:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj"
+              "C:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -210,14 +210,14 @@
         }
       }
     },
-    "c:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj": {
+    "C:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "c:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj",
+        "projectPath": "C:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\WIN.000\\.nuget\\packages\\",
-        "outputPath": "c:\\GitHub\\AppNetCoreReact\\Persistence\\obj\\",
+        "outputPath": "C:\\GitHub\\AppNetCoreReact\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
