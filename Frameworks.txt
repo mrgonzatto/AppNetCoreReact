@@ -29,3 +29,6 @@ https://react-devtools-experimental-chrome.vercel.app/
 
 REACT SEMANTIC-UI
 https://react.semantic-ui.com/ 
+
+SNIPPETS GENERATOR
+https://snippet-generator.app/
