@@ -1,26 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\AppNetCoreReact\\API\\API.csproj": {}
+    "D:\\Repositories\\GitHub\\ESTUDO\\AppNetCoreReact\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\AppNetCoreReact\\API\\API.csproj": {
+    "D:\\Repositories\\GitHub\\ESTUDO\\AppNetCoreReact\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\AppNetCoreReact\\API\\API.csproj",
+        "projectUniqueName": "D:\\Repositories\\GitHub\\ESTUDO\\AppNetCoreReact\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\GitHub\\AppNetCoreReact\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\WIN.000\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\AppNetCoreReact\\API\\obj\\",
+        "projectPath": "D:\\Repositories\\GitHub\\ESTUDO\\AppNetCoreReact\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\mauri\\.nuget\\packages\\",
+        "outputPath": "D:\\Repositories\\GitHub\\ESTUDO\\AppNetCoreReact\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\WIN.000\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\mauri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -33,11 +31,11 @@
           "netcoreapp3.0": {
             "targetAlias": "netcoreapp3.0",
             "projectReferences": {
-              "C:\\GitHub\\AppNetCoreReact\\Application\\Application.csproj": {
-                "projectPath": "C:\\GitHub\\AppNetCoreReact\\Application\\Application.csproj"
+              "D:\\Repositories\\GitHub\\ESTUDO\\AppNetCoreReact\\Application\\Application.csproj": {
+                "projectPath": "D:\\Repositories\\GitHub\\ESTUDO\\AppNetCoreReact\\Application\\Application.csproj"
               },
-              "C:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj"
+              "D:\\Repositories\\GitHub\\ESTUDO\\AppNetCoreReact\\Persistence\\Persistence.csproj": {
+                "projectPath": "D:\\Repositories\\GitHub\\ESTUDO\\AppNetCoreReact\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -67,6 +65,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.0.3, 3.0.3]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -75,27 +91,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\GitHub\\AppNetCoreReact\\Application\\Application.csproj": {
+    "D:\\Repositories\\GitHub\\ESTUDO\\AppNetCoreReact\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\AppNetCoreReact\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\Repositories\\GitHub\\ESTUDO\\AppNetCoreReact\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\GitHub\\AppNetCoreReact\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\WIN.000\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\AppNetCoreReact\\Application\\obj\\",
+        "projectPath": "D:\\Repositories\\GitHub\\ESTUDO\\AppNetCoreReact\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\mauri\\.nuget\\packages\\",
+        "outputPath": "D:\\Repositories\\GitHub\\ESTUDO\\AppNetCoreReact\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\WIN.000\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\mauri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -108,11 +122,11 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\GitHub\\AppNetCoreReact\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\GitHub\\AppNetCoreReact\\Domain\\Domain.csproj"
+              "D:\\Repositories\\GitHub\\ESTUDO\\AppNetCoreReact\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Repositories\\GitHub\\ESTUDO\\AppNetCoreReact\\Domain\\Domain.csproj"
               },
-              "C:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj"
+              "D:\\Repositories\\GitHub\\ESTUDO\\AppNetCoreReact\\Persistence\\Persistence.csproj": {
+                "projectPath": "D:\\Repositories\\GitHub\\ESTUDO\\AppNetCoreReact\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -147,27 +161,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\GitHub\\AppNetCoreReact\\Domain\\Domain.csproj": {
+    "D:\\Repositories\\GitHub\\ESTUDO\\AppNetCoreReact\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\AppNetCoreReact\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Repositories\\GitHub\\ESTUDO\\AppNetCoreReact\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\GitHub\\AppNetCoreReact\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\WIN.000\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\AppNetCoreReact\\Domain\\obj\\",
+        "projectPath": "D:\\Repositories\\GitHub\\ESTUDO\\AppNetCoreReact\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\mauri\\.nuget\\packages\\",
+        "outputPath": "D:\\Repositories\\GitHub\\ESTUDO\\AppNetCoreReact\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\WIN.000\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\mauri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -206,27 +218,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj": {
+    "D:\\Repositories\\GitHub\\ESTUDO\\AppNetCoreReact\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "D:\\Repositories\\GitHub\\ESTUDO\\AppNetCoreReact\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\GitHub\\AppNetCoreReact\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\WIN.000\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\AppNetCoreReact\\Persistence\\obj\\",
+        "projectPath": "D:\\Repositories\\GitHub\\ESTUDO\\AppNetCoreReact\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\mauri\\.nuget\\packages\\",
+        "outputPath": "D:\\Repositories\\GitHub\\ESTUDO\\AppNetCoreReact\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\WIN.000\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\mauri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -239,8 +249,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\GitHub\\AppNetCoreReact\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\GitHub\\AppNetCoreReact\\Domain\\Domain.csproj"
+              "D:\\Repositories\\GitHub\\ESTUDO\\AppNetCoreReact\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Repositories\\GitHub\\ESTUDO\\AppNetCoreReact\\Domain\\Domain.csproj"
               }
             }
           }
@@ -279,7 +289,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

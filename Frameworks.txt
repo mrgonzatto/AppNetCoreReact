@@ -2,7 +2,6 @@
 https://dotnet.microsoft.com/en-us/download/dotnet
 
 NODE
-https://nodejs.org/en/
 https://docs.microsoft.com/pt-br/windows/dev-environment/javascript/nodejs-on-windows
 
 NVM
@@ -23,6 +22,9 @@ https://www.postman.com/downloads/
 REACT
 https://create-react-app.dev/docs/getting-started/
 https://reactjs.org/blog/2015/09/02/new-react-developer-tools.html#installation
+
+File Structur
+https://reactjs.org/docs/faq-structure.html
 
 REACT DEVTOOLS EXPERIMENTAL
 https://react-devtools-experimental-chrome.vercel.app/

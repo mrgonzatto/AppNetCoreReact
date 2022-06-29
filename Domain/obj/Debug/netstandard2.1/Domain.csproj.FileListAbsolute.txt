@@ -8,3 +8,13 @@ C:\GitHub\AppNetCoreReact\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
 C:\GitHub\AppNetCoreReact\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
 C:\GitHub\AppNetCoreReact\Domain\obj\Debug\netstandard2.1\Domain.dll
 C:\GitHub\AppNetCoreReact\Domain\obj\Debug\netstandard2.1\Domain.pdb
+D:\Repositories\GitHub\ESTUDO\AppNetCoreReact\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+D:\Repositories\GitHub\ESTUDO\AppNetCoreReact\Domain\bin\Debug\netstandard2.1\Domain.dll
+D:\Repositories\GitHub\ESTUDO\AppNetCoreReact\Domain\bin\Debug\netstandard2.1\Domain.pdb
+D:\Repositories\GitHub\ESTUDO\AppNetCoreReact\Domain\obj\Debug\netstandard2.1\Domain.csproj.AssemblyReference.cache
+D:\Repositories\GitHub\ESTUDO\AppNetCoreReact\Domain\obj\Debug\netstandard2.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\GitHub\ESTUDO\AppNetCoreReact\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+D:\Repositories\GitHub\ESTUDO\AppNetCoreReact\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+D:\Repositories\GitHub\ESTUDO\AppNetCoreReact\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+D:\Repositories\GitHub\ESTUDO\AppNetCoreReact\Domain\obj\Debug\netstandard2.1\Domain.dll
+D:\Repositories\GitHub\ESTUDO\AppNetCoreReact\Domain\obj\Debug\netstandard2.1\Domain.pdb
