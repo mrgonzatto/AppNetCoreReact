@@ -1,28 +1,23 @@
-import React, {Component} from 'react';
+import React, {useEffect, useState} from 'react';
 import { Header, Icon, List } from 'semantic-ui-react'
 import axios from 'axios';
 import { IActivity } from './models/activity';
 
-interface IState {
-  activities: IActivity[]
-}
+
 
 //function App() {
-class App extends Component<{}, IState> {
-  readonly state: IState = {
-    activities: []
-  }
+const App = () => {
 
-  componentDidMount(){
+  const [activities, setActivities] = useState<IActivity[]>([])
+
+  useEffect(() => {
     axios.get<IActivity[]>('http://localhost:5000/api/activities')
-      .then((response) => {        
-        this.setState({
-          activities: response.data
-        })
-      })
-  }
+    .then((response) => {        
+      setActivities(response.data)
+    });
+  }, []);
 
-  render(){
+ 
     return (
       <div>
         <Header as='h2'>
@@ -30,14 +25,12 @@ class App extends Component<{}, IState> {
           <Header.Content>AppNetCoreReact</Header.Content>
         </Header>
         <List>          
-          {this.state.activities.map((activity) => (
+          {activities.map((activity) => (
             <List.Item key={activity.id}>{activity.title}</List.Item>            
           ))}                  
         </List>
       </div>
     );
-  }
-
 }
 
 export default App;
