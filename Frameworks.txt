@@ -23,7 +23,7 @@ REACT
 https://create-react-app.dev/docs/getting-started/
 https://reactjs.org/blog/2015/09/02/new-react-developer-tools.html#installation
 
-File Structur
+File Structure
 https://reactjs.org/docs/faq-structure.html
 
 REACT DEVTOOLS EXPERIMENTAL
