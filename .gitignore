@@ -30,3 +30,8 @@ yarn-error.log*
 .Reactivities.postman_collection.json
 .Frameworks.txt
 /.vscode
+
+#.NET
+/API/obj
+/API/bin
+Application/bin
