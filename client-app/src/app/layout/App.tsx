@@ -3,7 +3,7 @@ import { Container, Header, Icon, List } from 'semantic-ui-react'
 import axios from 'axios';
 import { IActivity } from './models/activity';
 import NavBar from '../../features/nav/NavBar';
-import ActivityDasboard from '../../features/activities/dashboard/ActivityDashboard';
+import ActivityDashboard from '../../features/activities/dashboard/ActivityDashboard';
 
 //function App() {
 const App = () => {
@@ -12,15 +12,15 @@ const App = () => {
   const [selectedActivity, setSelectedActivity] = useState<IActivity | null>(null);
 
   const handleSelectActivity = (id: string ) => {
-    setSelectedActivity(activities.filter(a => a.id == id)[0])
+    setSelectedActivity(activities.filter(a => a.id === id)[0])
   }
 
-  useEffect(() => {
-    
-    axios.get<IActivity[]>('http://localhost:5000/api/activities')
-    .then((response) => {        
-      setActivities(response.data)
-    });
+  useEffect(() => {    
+    axios
+      .get<IActivity[]>('http://localhost:5000/api/activities')
+      .then((response) => {        
+        setActivities(response.data)
+      });
   }, []);
 
  
@@ -28,10 +28,10 @@ const App = () => {
       <Fragment>
         <NavBar />
         <Container style={{marginTop:'7em'}}>
-          <ActivityDasboard 
+          <ActivityDashboard 
             activities={activities} 
             selectActivity={handleSelectActivity} 
-            selectedActivity={selectedActivity!}/>
+            selectedActivity={selectedActivity}/>
         </Container>
       </Fragment>
     );

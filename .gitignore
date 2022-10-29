@@ -32,6 +32,7 @@ yarn-error.log*
 /.vscode
 
 #.NET
-/API/obj
-/API/bin
-Application/bin
+API/obj/
+API/bin/Debug/
+API/bin/
+Application/bin/

@@ -9,10 +9,11 @@ const NavBar = () => {
         <Container>
             <Menu.Item header>
                 <img src='/assets/logo.png' alt="logo" style={{marginRight: '10px'}} />
+                Reactivities
             </Menu.Item>
             <Menu.Item name='Activities' />
             <Menu.Item>
-                <Button positive content='Create Activity'></Button>
+                <Button positive content='Create Activity' />
             </Menu.Item>
         </Container>
   </Menu>

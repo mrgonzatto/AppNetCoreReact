@@ -13,11 +13,12 @@ const ActivityList: React.FC<IProps> = ({ activities, selectActivity }) => {
         <Segment clearing>
             <Item.Group divided>
                 {activities.map(activity => (
-                    <Item>
+                    <Item key={activity.id}>
                         <Item.Content>
                             <Item.Header as='a'>{activity.title}</Item.Header>
                             <Item.Meta></Item.Meta>
                             <Item.Description>
+                                <div>{activity.id}</div>
                                 <div>{activity.description}</div>
                                 <div>{activity.city}, {activity.venue}</div>
                             </Item.Description>

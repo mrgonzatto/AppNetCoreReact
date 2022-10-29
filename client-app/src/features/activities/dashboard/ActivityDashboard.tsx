@@ -17,8 +17,8 @@ const ActivityDasboard: React.FC<IProps> = ({activities, selectActivity, selecte
             <Grid.Column width={10}>
                 <ActivityList activities={activities} selectActivity={selectActivity} />
             </Grid.Column>
-            <Grid.Column width={6}>
-                {selectedActivity && <ActivityDetails activity={selectedActivity}/>}
+            <Grid.Column width={6}>     
+                {selectedActivity && <ActivityDetails activity={selectedActivity} /> }
                 <ActivityForm />
             </Grid.Column>
         </Grid>
