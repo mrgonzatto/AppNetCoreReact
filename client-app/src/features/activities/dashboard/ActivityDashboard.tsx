@@ -1,6 +1,6 @@
 import React from 'react'
 import {Grid, List} from 'semantic-ui-react'
-import { IActivity } from '../../../app/layout/models/activity'
+import { IActivity } from '../../../app/models/activity'
 import ActivityDetails from '../details/ActivityDetails'
 import ActivityForm from '../form/ActivityForm'
 import ActivityList from './ActivityList'
